@@ -47,12 +47,9 @@ The simulations generate:
 These plots help analyze smoothness, boundary constraints, and motion feasibility.
 
 🔹 Key Takeaways
-
-Quintic polynomials ensure smoother acceleration profiles than cubic polynomials
-
-Boundary condition constraints significantly affect motion smoothness
-
-Differential drive robots are kinematically constrained systems
+- Quintic polynomials ensure smoother acceleration profiles than cubic polynomials
+- Boundary condition constraints significantly affect motion smoothness
+- Differential drive robots are kinematically constrained systems
 
 PTP and CT methods serve different trajectory planning scenarios
 
