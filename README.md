@@ -50,8 +50,7 @@ These plots help analyze smoothness, boundary constraints, and motion feasibilit
 - Quintic polynomials ensure smoother acceleration profiles than cubic polynomials
 - Boundary condition constraints significantly affect motion smoothness
 - Differential drive robots are kinematically constrained systems
-
-PTP and CT methods serve different trajectory planning scenarios
+- PTP and CT methods serve different trajectory planning scenarios
 
 🔹 Future Work
 - Integrate trajectory planning with ROS2-based mobile robot simulation
